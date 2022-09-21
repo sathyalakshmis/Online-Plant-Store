@@ -6,6 +6,5 @@ HOME PAGE
 ![image](https://user-images.githubusercontent.com/87848503/190407975-a941c04b-1450-4ff0-abb4-0a425859453c.png)
 
 PRODUCTS
-![image](https://user-images.githubusercontent.com/87848503/190409312-2c40252b-4cf6-472d-81cc-0eb4e9b5a68a.png)
-
+![image](https://user-images.githubusercontent.com/87848503/191551305-437937e3-2e14-45bc-a111-ffa12da96e8c.png)
 
